@@ -1,0 +1,25 @@
+factor=0.4
+zone_extend=true
+other_settings=...........................
+TimeFrame=0
+TimeString=0=Current, 60=H1, 240=H4, 1440=Day, 10080=Week, 43200=Month
+color_support_weak=6891024
+color_support_untested=12732447
+color_support_verified=14772545
+color_support_proven=15106656
+color_support_turncoat=15842217
+color_resist_weak=1706331
+color_resist_untested=3018664
+color_resist_verified=3937500
+color_resist_proven=9007090
+color_resist_turncoat=14274811
+color_labels=32768
+zone_show_weak=true
+zone_show_info=true
+zone_label_shift=5
+zone_show_alerts=false
+zone_alert_popups=true
+zone_alert_sounds=true
+send_email=false
+send_mobil_notification=false
+zone_alert_waitseconds=300

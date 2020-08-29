@@ -1,0 +1,6 @@
+if you find templets not working,
+
+then create Downloads folder in indicator folder of your mt4 terminal file. and put all indicators of sniper rishijay trading system in Downloads folder .
+
+then restart mt4. and again reload templet.
+

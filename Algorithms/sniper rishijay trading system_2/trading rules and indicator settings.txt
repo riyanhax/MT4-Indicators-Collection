@@ -1,0 +1,81 @@
+SNIPER RISHIJAY TRADING SYSTEM-
+_______________________________
+_______________________________
+
+SPECIAL ATTENTION TO INDICATOR SETTINGS-
+
+1)HAWKEYE  HEAT MAP INDICATOR-- THIS INDICATOR WILL NOT WORK WITHOUT  dll file. PUT HAWKEYE dll file in library folder in mt4 terminal folder.
+                     - ALSO SEE THAT allow dll imports box is checked to allow dll imports in indicator settings -common settings tab
+
+2) SUPER TREND INDICATOR-- MULTIPLIER SETTING--1.7 , IT IS SET FOR MODERATE RISK AND TO IDENTIFY ENTRY -EXIT POINTS FASTER . YOU CAN MODIFY TI ACCORDING TO YOUR RISK APPETITE.
+
+3)!XPS v8 TRENDBARS AND obo_trendbars-2 ARE OVERLAPED ON EACH OTHER WITH MODIFIED COLOR SETTINGS IN BOTH INDICATORS TO GET OPTIMAL BAR PAINTING RESULTS.  BETTER TO LOAD THEM FROM LOADING Templet  TO GET DESIRED BAR PAINTING. OTHERWISE YOU WILL NOT SEE PERFECT BAR COLORS IN CHART WINDOW.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+TRADING RULES---
+
+BUY ENTRY-
+
+1) PRICE BAR COLOR-- LIME GREEN
+2) STLM HISTOGRAM- LIME GREEN
+3) BUY SIGNAL ARROW- BLUE
+4) TOUCHLINE- LIME GREEN
+5) HAWKEYE HEATMAP- LIME GREEN
+6) MACD MULTITIMEFRAME - BUY MODE
+7) MJ INDICATOR - SHOWS MAJOR TREND UP
+8) SUPERTREND -  LIME GREEN COLOR
+
+SELL ENTRY-
+
+1) PRICE BAR COLOR-- RED
+2) STLM HISTOGRAM- RED
+3) SELL SIGNAL ARROW- RED
+4) TOUCHLINE- RED
+5) HAWKEYE HEATMAP- RED
+6) MACD MULTITIMEFRAME - SELL MODE
+7) MJ INDICATOR - SHOWS MAJOR TREND DOWN
+8) SUPER TREND- RED COLOR
+________________________________________________
+
+EXIT STRATEGY-
+
+1) BUY EXIT-WHEN PRICE BAR COLOR AND HAWKEYE INDICATOR CHANGES FROM LIME GREEN TO OTHER COLOR. 
+            - OR SELL ARROW APPEARS.
+
+2) SELL EXIT- WHEN PRICE BAR COLOR AND HAWKEYE INDICATOR CHANGES FROM RED TO OTHER COLOR. 
+            - OR BUY ARROW APPEARS.
+              
+ 
+TREDE ONLY LIME GREEN AND RED PRICE BARS.
+
+TAKE ONLY BUY SIGNALS WHEN PRICES ARE ABOVE 50 EMA.
+TAKE ONLY SELL SIGNALS WHEN PRICES ARE BELOW 50 EMA.
+_______________________________________________________
+
+STOPLOSS STRATEGY-
+
+-TRAIL STOP LOSS WITH SUPERTREND INDICATOR.
+___________________________________________________________
+
+POSSIBLE TREND REVERSAL INDICATOR-
+
+HAWKEYE WIDE BAR INDICATOR- MAGENTA DIAMONDS ON PRICE BAR.
+
+THIS SHOWS LARGE PRICE AND VOLUME ACTION AND POSSIBLE TREND REVERSAL OPPORTUNITY.
+____________________________________________________________________________________
+
+TRENDING OR NONTRENDING MARKET INDICATOR--
+
+1) TRENDING MARKET- MJ IDICATOR WILL DISPLAY -major trend up for up trend 
+                                             - major trend down for down trend on charts.
+
+2) NONTRENDING MARKET- MJ INDICATOR WILL DISPLAY - no trend identifeid on charts.
+
+___________________________________________________________________________________
+
+
+
+hope you will find it useful.
+
+from--   RISHIJAY
+_________________________
+ 

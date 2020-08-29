@@ -1,0 +1,7 @@
+it was 
+#property indicator_buffers 1
+
+corrected to
+#property indicator_buffers 8
+
+worx now
