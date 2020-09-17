@@ -1,0 +1,2 @@
+*.tpl linguist-detectable=false
+*.mql4 linguist-detectable=true
